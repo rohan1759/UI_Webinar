@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+@theme{
+    --color-ocean: #a6e9dd
+}
